@@ -6,8 +6,8 @@ This repo serves the SpatiumDDI documentation site at
 <https://spatiumddi.github.io>.
 
 Its entire contents are mirrored from the `docs/` directory of
-directory of [spatiumddi/spatiumddi](https://github.com/spatiumddi/spatiumddi)
-by the `docs-publish` workflow, which runs on every release tag. Any commit
-made here by hand will be overwritten by the next release.
+[spatiumddi/spatiumddi](https://github.com/spatiumddi/spatiumddi) by
+the `docs-publish` workflow, which runs on every release tag. Any
+commit made here by hand will be overwritten by the next release.
 
 To change the documentation, edit `docs/` in the main repository.
