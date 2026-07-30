@@ -1,0 +1,13 @@
+# spatiumddi.github.io
+
+**Generated — do not edit this repository directly.**
+
+This repo serves the SpatiumDDI documentation site at
+<https://spatiumddi.github.io>.
+
+Its entire contents are published automatically from the `docs/`
+directory of [spatiumddi/spatiumddi](https://github.com/spatiumddi/spatiumddi)
+by the `docs-publish` workflow, which runs on every release tag. Any commit
+made here by hand will be overwritten by the next release.
+
+To change the documentation, edit `docs/` in the main repository.
