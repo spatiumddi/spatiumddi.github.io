@@ -3,7 +3,7 @@
 **Generated — do not edit this repository directly.**
 
 This repo serves the SpatiumDDI documentation site at
-<https://spatiumddi.github.io>.
+<https://www.spatiumddi.com>.
 
 Its entire contents are mirrored from the `docs/` directory of
 [spatiumddi/spatiumddi](https://github.com/spatiumddi/spatiumddi) by
